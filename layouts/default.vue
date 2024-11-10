@@ -1,6 +1,6 @@
 <template>
-    <div>
-        <header>
+    <div class="bg-white">
+        <header class="p-4">
             <Navigation />
         </header>
         <main>

@@ -1,6 +1,6 @@
 <template>
     <div>
-        <p>
+        <p class="text-black">
             services page
         </p>
     </div>

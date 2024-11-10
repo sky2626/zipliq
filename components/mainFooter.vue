@@ -76,13 +76,13 @@
                             </NuxtLink>
                         </li>
                         <li>
-                            <NuxtLink to="/" 
+                            <NuxtLink to="/service" 
                             class="text-lg font-normal text-gray-400 transition-all duration-300 hover:text-violet-400 focus-within:outline-0 focus-within:text-violet-400">
                                 Consultations
                             </NuxtLink>
                         </li>
                         <li>
-                            <NuxtLink to="/" 
+                            <NuxtLink to="/service" 
                             class="text-lg font-normal text-gray-400 transition-all duration-300 hover:text-violet-400 focus-within:outline-0 focus-within:text-violet-400">
                                 Web/Mobile app development Training
                             </NuxtLink>
@@ -99,8 +99,6 @@
                         <li><a href="javascript:;"
                                 class="text-lg font-normal text-gray-400 transition-all duration-300 hover:text-violet-400 focus-within:outline-0 focus-within:text-violet-400">Quick
                                 Start</a></li>
-                        
-                        
                     </ul>
                 </div>
 
